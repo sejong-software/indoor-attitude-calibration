@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/46476876/107909203-13ef5c80-6f9b-11eb-96f8-d867f2901e6a.png)
 ### 방위각 오차 보상 알고리즘
 ![image](https://user-images.githubusercontent.com/46476876/107909233-1ea9f180-6f9b-11eb-8ece-d2877b3d1f9c.png)
-### 시뮬레이터 구성
+### 시뮬레이터
 ![image](https://user-images.githubusercontent.com/46476876/107909280-2ff2fe00-6f9b-11eb-9dc3-932423718d83.png)
 
 ## 결과물
