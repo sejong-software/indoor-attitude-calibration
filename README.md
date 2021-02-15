@@ -29,9 +29,10 @@
 
 ## 결과물
 ### 논문
-[논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10492559)
+[논문](https://github.com/sejong-software/indoor-attitude-calibration/blob/main/%EB%8B%A4%EC%A4%91%20%EC%84%BC%EC%84%9C%20%EB%B0%8F%20%EC%98%81%EC%83%81%20%EC%A0%95%EB%B3%B4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%A4%EB%82%B4%20%EB%93%9C%EB%A1%A0%EC%9D%98%20%EC%9E%90%EC%84%B8%20%EB%B3%B4%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%B0%9C.pdf)
 이주한, 김응주, 강산희, 권영서, 김학주, 송진우. (2020). 다중 센서 및 영상 정보를 이용한 실내 드론의 자세 보정 알고리즘 개발. 정보 및 제어 논문집, (), 51-52.
 ### 시뮬레이터
 ![image](https://user-images.githubusercontent.com/46476876/107909328-4a2cdc00-6f9b-11eb-9226-e1ca3f1ee881.png)
 ### 특허
-### 소프트웨어 등록
+송진우, 이주한, 김응주, 김용훈, 강산희. 실내 환경에서 운행하는 무인 비행체의 방위각의 추정. 01-2020-0171022.2020.
+
